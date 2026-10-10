@@ -1,0 +1,11 @@
+{
+  "version": "1.1.0",
+  "notes": "Food log & recipes, Body tracking, WHOOP strain coach + sleep planner + trends, goals & achievements, exercise demos, custom workouts, tray, reminders and auto-updates.",
+  "pub_date": "2026-10-10T23:58:12Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHRENVkxVnhNaU5CdDdZRXEvRWM2d0dyaTVMZGZrWUNxVHhKKzlOd0NpajEvNGZ0cUVtMDRmR2dNU1crUXhDYzZpcTJFVk9yT09IYVZqb3ZERVJHZUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjc2Mjk1CWZpbGU6TE9DSyBJTl8xLjEuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjAKN3VGYlZhWTZHamYvYzZ5VzBKSXZrQUt2dkM2d0l0cUM4djdWbkdJOVBtS2JwS3hkM2NlU2piTmgxY3VHT3htcHg2SlBucjlQQS9aSWkwdFZRSzNsQXc9PQo=",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.1.0_x64-setup.exe"
+    }
+  }
+}
