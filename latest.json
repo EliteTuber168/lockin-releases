@@ -1,11 +1,11 @@
 {
-  "version": "1.5.0",
-  "notes": "LOCK IN 1.5: Morning check-in (Wake Up screen, top 3 with suggestions, time-based food idea), Challenges, HIIT timer, Smart rest days, meal photos, calendar export, run splits/best efforts/pace goal, levels & XP + 30 new badges. Plus voice coach, run & walk GPS tracker, bedtime routine, share card, light theme + accent colors, phone home-screen widget.",
-  "pub_date": "2026-10-11T17:10:21Z",
+  "version": "1.6.0",
+  "notes": "LOCK IN 1.6: Habits hub with Quit tracker (days-since counter, milestones, craving log, history, my why), Tasks (due dates, reminders, categories, priority, repeating, steps) and Motivation (why, vision board, wins journal, countdowns, daily quote, note to self). Monthly/yearly Wrapped. Faster startup and polish.",
+  "pub_date": "2026-10-11T21:32:46Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRG9MS1FucG1ISndiMDc2T0VQRkZzbzIzQVgwMmxzajNtZmZLU3FSc3Y0WUszTzRMUlcvZkVwL2l5REFnd2VZbklXVVRxMDJDMDFlY29tWEl0OVJyeUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzM3Nzg1CWZpbGU6TE9DSyBJTl8xLjUuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS41LjAKN2N1d3BMaFlEL1pCdEpDSWdXSTRyL0FCZWNkVHlqejM4dFhjMmtZSC9Xc2xXWWtSVDMzdmptNlN1eXNGZDVXV2hreTA3WHhZQVBwYm1ZNU5yeDJ5QlE9PQo=",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.5.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHNkdUF5Z3dGZGVUeDc0WU1zWlFQNDJLSSs4NCs0WVpNb1VtQWR1NXdXY2VIZGYzQVhGTWlNbUE1VmFYOGVmNVIxK25VUGg5WnFyNlc4QUFSZm05YmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzU0MjgyCWZpbGU6TE9DSyBJTl8xLjYuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS42LjAKWmVQNWhUOGJma1dWbmRTR0I1MkNnTkhDSW54UTExaERSNnM0RmFOSHR4MUdLTWd3YjJVZE1XQnZZQWluR0NNSVoxYkFoQlkvbVpaazdSZnc3VnNLQnc9PQo=",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.6.0_x64-setup.exe"
     }
   }
 }
