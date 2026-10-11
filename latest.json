@@ -1,11 +1,11 @@
 {
-  "version": "1.3.0",
-  "notes": "1.3: Phone sync (Android app over home Wi-Fi), Fridge & meal planning, 100 recipes, 30 sessions, programs, stretch routines, personal records, habits, weekly recap, mini widget fix, open-ended holds and get-ready countdown.",
-  "pub_date": "2026-10-11T04:40:22Z",
+  "version": "1.3.1",
+  "notes": "1.3.1: Fixes Phone sync failing to turn back on after turning it off (port 47900 error).",
+  "pub_date": "2026-10-11T04:49:08Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHZ6dS8vR2xUVUphc0VsRFBiaG10TnFjN3dra1F4V1MvenlRdDFtbnhzc2JNMmNuY0VoaWRsU00rWHFvdUN4Y2tTWlhnREVVcmo5SEJZL3hhUjJTNHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjkyOTMzCWZpbGU6TE9DSyBJTl8xLjMuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4zLjAKVm8zWmlwQjZUT2V6RWk0cU5odWVmUWpOSktodFRHK3I2OW9VMGc1ZjVIS052RTVteGhhL3JGSE4wZ3p5dGxwaGROTFRMbnBWTVBkUVZOakR6eVQ3Qmc9PQo=",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.3.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRG5jUEpPSzdSd2JWQWdOMFFvVUdlMDFyZ2ZaQ2Q2SjI3SklxTTJmcUJvY3pIU3JjcHh2OEx4VDlBc3NKaXIzRGkyMFlGU0V1aUxLd29SaXNNNHF0WWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjk0MTM5CWZpbGU6TE9DSyBJTl8xLjMuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4zLjEKeTNBcnVwS3FkSHdhRXkyK2ZVdFVUVzExWFJKSG9pT1pTQkZVZVpkNStHbVFFeHk1MHNIVlNtSUhRRVFCZ2FSUUx2SE00RklqYkZPOFc0VEtwSUxIQnc9PQo=",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.3.1_x64-setup.exe"
     }
   }
 }
