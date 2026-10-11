@@ -1,8 +1,8 @@
 {
-  "version": "1.5.1",
-  "notes": "LOCK IN 1.5.1: Updates now download inside the app (with progress) and open Android's installer directly \u2014 no more stuck browser downloads. Includes everything from 1.5.",
-  "pub_date": "2026-10-11T17:24:20Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.5.1_android.apk",
-  "sha256": "090f2eb78634d7b052e2db3471dce938242d43b2dad1300c79350dfbc2c55cb7",
-  "size": 18043854
+  "version": "1.6.0",
+  "notes": "LOCK IN 1.6: Runs keep tracking with the screen off (pause from the notification). Reminders arrive even when the app is closed (workouts, water, wind-down, habits, tasks, challenges, quit milestones). New Habits hub: Quit tracker, Tasks, Motivation. Wrapped recaps. Faster and smoother.",
+  "pub_date": "2026-10-11T21:32:53Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.6.0_android.apk",
+  "sha256": "62d6531a04745386e4c43c741261fa89e660946387aab95753fc75b1b0aedfb9",
+  "size": 18126650
 }
