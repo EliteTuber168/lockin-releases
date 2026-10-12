@@ -1,11 +1,11 @@
 {
-  "version": "1.8.0",
-  "notes": "Cloud sync over the internet (private GitHub repo) + Scroll control page",
-  "pub_date": "2026-10-12T01:42:30Z",
+  "version": "1.8.2",
+  "notes": "Logged challenge days now show up in Workouts",
+  "pub_date": "2026-10-12T02:30:26Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHN6aDdkRFpNTXpnTlVYbjZNNWhYdGdCSWljRGNsZ241WHhKa3U1aXA0MjVGaUkwRGJyRkc5WTBwNmJmeWZJMDhCcUp6ZE5tSEtodXVEcnpIV2JKTEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzY4OTk3CWZpbGU6TE9DSyBJTl8xLjguMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS44LjAKWUpheThPbEFwS0srYWVobkhTcEp4dXZIZFhwRWEzZGZUMWhsSWhFTzBpSzZTUnRMUFBoNTVyRFJzZ2hOUXV6SC8yVmFkdEkwN1pLNjJKOS81TTREREE9PQo=",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.8.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHV0NDl6Mno2OEo2bUFEeFhabjJTMEpybm11UEYyQ1lJT0JtMjZLdzg2VnQ0TUZXM25PNGtNdW1hV3NvZnhJbUc3WkdScGpVeWJLUkdCT2JqNTVMZ2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzcxOTQ4CWZpbGU6TE9DSyBJTl8xLjguMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS44LjIKQ3FCVlJBTU50aGhIM3laaDJUenRzN2lhVUVmTGIwR0M3MVpTVmJmYWhpODQxV1Z2U2duQWFJdEQvWWpPS2E3M3FvQXdlNzZiaE9ycnFPVmpUYmRsQnc9PQo=",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.8.2_x64-setup.exe"
     }
   }
 }
