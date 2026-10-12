@@ -1,8 +1,8 @@
 {
-  "version": "1.7.0",
-  "notes": "LOCK IN 1.7: Body map, Game time (limits game apps on your phone too \u2014 needs Usage access), Challenges 2.0 with timers, levels, combos, freezes and trophies.",
-  "pub_date": "2026-10-12T01:13:57Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.7.0_android.apk",
-  "sha256": "e41beeae6e7f3c94f0c72dc1b72465bedeefe8023628443b8fc30bb8a62f04ea",
-  "size": 18192450
+  "version": "1.8.0",
+  "notes": "Cloud sync + Scroll control (blocks Shorts/Reels doomscrolling)",
+  "pub_date": "2026-10-12T01:42:41Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.8.0_android.apk",
+  "sha256": "99329a707fcd459848f63b9bb0ed8808b4520c5ed1aabb5525e981d69a9b00fc",
+  "size": 18308762
 }
