@@ -1,8 +1,8 @@
 {
-  "version": "1.10.0",
-  "notes": "3D exercise demos: drag to rotate, camera angles, slow-mo, full screen, worked muscles highlighted",
-  "pub_date": "2026-10-12T04:13:08Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.10.0_android.apk",
-  "sha256": "fbbde463882b309f9f49ebbc3ef8dc4d6b30928d6053092afe979d2f4dd0d329",
+  "version": "1.10.1",
+  "notes": "Game time: 'Don't count these' exclusion list",
+  "pub_date": "2026-10-12T04:29:14Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.10.1_android.apk",
+  "sha256": "9c5c045db62dc161747ad2f53bd4b3ebf71ce837171875a33dd4c2cf7a7c8294",
   "size": 18423490
 }
