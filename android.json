@@ -1,8 +1,8 @@
 {
-  "version": "1.10.1",
-  "notes": "Game time: 'Don't count these' exclusion list",
-  "pub_date": "2026-10-12T04:29:14Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.10.1_android.apk",
-  "sha256": "9c5c045db62dc161747ad2f53bd4b3ebf71ce837171875a33dd4c2cf7a7c8294",
-  "size": 18423490
+  "version": "1.11.0",
+  "notes": "Spotify: workout music page, auto-built Workout Mix playlist, now-playing controls in the player",
+  "pub_date": "2026-10-12T04:55:31Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.11.0_android.apk",
+  "sha256": "470fbc6057c90692d15b30417f693a2a3591507d181f0e2b896af9b120767b61",
+  "size": 18521818
 }
