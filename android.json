@@ -1,8 +1,8 @@
 {
-  "version": "1.8.3",
-  "notes": "Challenge days you logged earlier now appear in Workouts too",
-  "pub_date": "2026-10-12T02:41:37Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.8.3_android.apk",
-  "sha256": "b04fa499fe317661a2c8f0a37dce0a2d6baae20fbe5f6b006be92103c7a492b8",
+  "version": "1.9.0",
+  "notes": "New Water page: one-tap bottle logging, 25/50/75%, pace tracking, streaks",
+  "pub_date": "2026-10-12T02:54:49Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.9.0_android.apk",
+  "sha256": "d2e0768bc52abf2571b3557994514f60d2dd203a8a28fdef31fc81b08ffd4cf6",
   "size": 18308798
 }
