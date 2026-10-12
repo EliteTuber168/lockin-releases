@@ -1,11 +1,11 @@
 {
-  "version": "1.6.0",
-  "notes": "LOCK IN 1.6: Habits hub with Quit tracker (days-since counter, milestones, craving log, history, my why), Tasks (due dates, reminders, categories, priority, repeating, steps) and Motivation (why, vision board, wins journal, countdowns, daily quote, note to self). Monthly/yearly Wrapped. Faster startup and polish.",
-  "pub_date": "2026-10-11T21:32:46Z",
+  "version": "1.7.0",
+  "notes": "LOCK IN 1.7: Body map on Today (tap muscles, recovery heatmap, build a workout, today's push/pull/leg day, weekly balance). Game time: earn gaming by working out, hard mode, Just-let-me-play with payback, bedtime lock and late-night nudges. Challenges 2.0: own page per challenge, timer & counter, levels, combos, make your own, 40 challenges, freezes, trophies.",
+  "pub_date": "2026-10-12T01:13:44Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHNkdUF5Z3dGZGVUeDc0WU1zWlFQNDJLSSs4NCs0WVpNb1VtQWR1NXdXY2VIZGYzQVhGTWlNbUE1VmFYOGVmNVIxK25VUGg5WnFyNlc4QUFSZm05YmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzU0MjgyCWZpbGU6TE9DSyBJTl8xLjYuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS42LjAKWmVQNWhUOGJma1dWbmRTR0I1MkNnTkhDSW54UTExaERSNnM0RmFOSHR4MUdLTWd3YjJVZE1XQnZZQWluR0NNSVoxYkFoQlkvbVpaazdSZnc3VnNLQnc9PQo=",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.6.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHZnaGV5eHJqcEhsWVBwcFFONHQ1a2NHUWh5VXlXZ0VqVmhwSEFOcXR3MElYOCtwdDlXWU9aWUQ5eUVBSTRkUkZzUExzODZQWlhRMXFyMWtyMlo4NmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzY3NDc1CWZpbGU6TE9DSyBJTl8xLjcuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS43LjAKbkhLSFJPSFQvRVNVWWsyL2pOQnpmcWpRRkI5QXJUQUhCeDVTK0VGOUdPMlB2OGk0dit3MHNBOHY0dHF6ZkpaK2liNmI2eHRhWW9Xa0hrZFFhalJwQXc9PQo=",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.7.0_x64-setup.exe"
     }
   }
 }
