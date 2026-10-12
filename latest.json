@@ -1,11 +1,11 @@
 {
-  "version": "1.8.2",
-  "notes": "Logged challenge days now show up in Workouts",
-  "pub_date": "2026-10-12T02:30:26Z",
+  "version": "1.8.3",
+  "notes": "Challenge days you logged earlier now appear in Workouts too",
+  "pub_date": "2026-10-12T02:41:29Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHV0NDl6Mno2OEo2bUFEeFhabjJTMEpybm11UEYyQ1lJT0JtMjZLdzg2VnQ0TUZXM25PNGtNdW1hV3NvZnhJbUc3WkdScGpVeWJLUkdCT2JqNTVMZ2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzcxOTQ4CWZpbGU6TE9DSyBJTl8xLjguMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS44LjIKQ3FCVlJBTU50aGhIM3laaDJUenRzN2lhVUVmTGIwR0M3MVpTVmJmYWhpODQxV1Z2U2duQWFJdEQvWWpPS2E3M3FvQXdlNzZiaE9ycnFPVmpUYmRsQnc9PQo=",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.8.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHE2Q0IyQ3ZyNXJoZ1hWRDFyZGIvaVVjQ1BnWWdRKzZ2NnM2UzZSNzExOHB5V0dyT2kvTjVRWGdkVUM2bWpEZWM4RlFzZTNiRU5wUmorb09qWURqR0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzcyNjQ0CWZpbGU6TE9DSyBJTl8xLjguM194NjQtc2V0dXAuZXhlCXZlcnNpb246MS44LjMKWFJ1cVBkYWFRRTZzb2hZQUQzWE1yNWFmdGFLQTB1U0dhME1ZN0pzVTVxV2sxRVZLL21XYXVqMlB4cStGS1Vvb3QyazliUWpRazNJbFVNWnJzUGRGQkE9PQo=",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.8.3_x64-setup.exe"
     }
   }
 }
