@@ -1,11 +1,11 @@
 {
-  "version": "1.10.1",
-  "notes": "Game time: 'Don't count these' exclusion list",
-  "pub_date": "2026-10-12T04:29:06Z",
+  "version": "1.11.0",
+  "notes": "Spotify: workout music page, auto-built Workout Mix playlist, now-playing controls in the player",
+  "pub_date": "2026-10-12T04:55:23Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHV4T0VwTnJlbEl0Y1FjQnlaUG9wWCtoQ0J5aHpuK05QYmdUcVordkhwVjdQWG8xSmxkQ1ZtaVp4WXpheGpFRlFwQTl4eHEydUxkbmlKR3V5NWo1N2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzc5MDQ5CWZpbGU6TE9DSyBJTl8xLjEwLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMTAuMQpFVUc1YjF2YUxSdU1jcGFlRVJYQ2o0OFdxdHBlWDVLUVBzTmdueUFZUkh3OUVpSTBQNTNUWSs4MjZwVVRHRUdpUTlWWXBLWjBZUDBHSlp5Zm5paS9Bdz09Cg==",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.10.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRGg1OG83WStiVVhFSDlMVDZ6MGxOQ1gwS1FoeDJCMERiYktmTkpKUTZ1SzBMWnVSN3h2RmRFQzVkNlJIcGlySk9TczRzcHhSa0RvWnFsaFpjZGUreUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzgwNjA2CWZpbGU6TE9DSyBJTl8xLjExLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMTEuMApYc2dyQWc0ajdSWkx4TFYvSjRCSnJiU3Ywa2lLYkhSUEluWjNEQ2pwQUJMemo3REVscmN5blQrZ2ozOTk0RGU0SFdrRUI4TVl6UEdZU2x3OWxGc09Bdz09Cg==",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.11.0_x64-setup.exe"
     }
   }
 }
