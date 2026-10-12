@@ -1,11 +1,11 @@
 {
-  "version": "1.10.0",
-  "notes": "3D exercise demos: drag to rotate, camera angles, slow-mo, full screen, worked muscles highlighted",
-  "pub_date": "2026-10-12T04:12:59Z",
+  "version": "1.10.1",
+  "notes": "Game time: 'Don't count these' exclusion list",
+  "pub_date": "2026-10-12T04:29:06Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHVxSjViNEtFbTBXQkdMeWgvQnpFTlpYakJYUW15K2h4akZoclJoOURqSHRkOEdJWjA1TnRxcVRUUlpvWTlqRFExckN4cFFUWFF2dUZtR0ZyOWxZSHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzc4MDk5CWZpbGU6TE9DSyBJTl8xLjEwLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMTAuMAovSTZlakFhRWhNaFdteStMSG9mRFFqTytsSmhwSFpRbWJhcjNERjFMb0s4V3E5Sm1kT2xRaXVFNjF3NEJnRFNHRkVEYnpSSXFhQ2lGUjZLUUZaeXFBdz09Cg==",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.10.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHV4T0VwTnJlbEl0Y1FjQnlaUG9wWCtoQ0J5aHpuK05QYmdUcVordkhwVjdQWG8xSmxkQ1ZtaVp4WXpheGpFRlFwQTl4eHEydUxkbmlKR3V5NWo1N2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzc5MDQ5CWZpbGU6TE9DSyBJTl8xLjEwLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMTAuMQpFVUc1YjF2YUxSdU1jcGFlRVJYQ2o0OFdxdHBlWDVLUVBzTmdueUFZUkh3OUVpSTBQNTNUWSs4MjZwVVRHRUdpUTlWWXBLWjBZUDBHSlp5Zm5paS9Bdz09Cg==",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.10.1_x64-setup.exe"
     }
   }
 }
