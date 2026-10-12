@@ -1,8 +1,8 @@
 {
-  "version": "1.8.0",
-  "notes": "Cloud sync + Scroll control (blocks Shorts/Reels doomscrolling)",
-  "pub_date": "2026-10-12T01:42:41Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.8.0_android.apk",
-  "sha256": "99329a707fcd459848f63b9bb0ed8808b4520c5ed1aabb5525e981d69a9b00fc",
-  "size": 18308762
+  "version": "1.8.1",
+  "notes": "Scroll control: pauses the video behind the popup, and Get me out backs out of Reels/Shorts and closes the app",
+  "pub_date": "2026-10-12T02:07:00Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.8.1_android.apk",
+  "sha256": "e9eb213d9c8aab42b47256b81c99e85fc2f7c9667be8b04c3aceb94cb19620d9",
+  "size": 18308798
 }
