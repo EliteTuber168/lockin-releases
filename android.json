@@ -1,8 +1,8 @@
 {
-  "version": "1.9.0",
-  "notes": "New Water page: one-tap bottle logging, 25/50/75%, pace tracking, streaks",
-  "pub_date": "2026-10-12T02:54:49Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.9.0_android.apk",
-  "sha256": "d2e0768bc52abf2571b3557994514f60d2dd203a8a28fdef31fc81b08ffd4cf6",
-  "size": 18308798
+  "version": "1.10.0",
+  "notes": "3D exercise demos: drag to rotate, camera angles, slow-mo, full screen, worked muscles highlighted",
+  "pub_date": "2026-10-12T04:13:08Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.10.0_android.apk",
+  "sha256": "fbbde463882b309f9f49ebbc3ef8dc4d6b30928d6053092afe979d2f4dd0d329",
+  "size": 18423490
 }
