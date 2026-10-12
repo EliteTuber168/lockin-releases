@@ -1,11 +1,11 @@
 {
-  "version": "1.8.3",
-  "notes": "Challenge days you logged earlier now appear in Workouts too",
-  "pub_date": "2026-10-12T02:41:29Z",
+  "version": "1.9.0",
+  "notes": "New Water page: one-tap bottle logging, 25/50/75%, pace tracking, streaks",
+  "pub_date": "2026-10-12T02:54:40Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHE2Q0IyQ3ZyNXJoZ1hWRDFyZGIvaVVjQ1BnWWdRKzZ2NnM2UzZSNzExOHB5V0dyT2kvTjVRWGdkVUM2bWpEZWM4RlFzZTNiRU5wUmorb09qWURqR0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzcyNjQ0CWZpbGU6TE9DSyBJTl8xLjguM194NjQtc2V0dXAuZXhlCXZlcnNpb246MS44LjMKWFJ1cVBkYWFRRTZzb2hZQUQzWE1yNWFmdGFLQTB1U0dhME1ZN0pzVTVxV2sxRVZLL21XYXVqMlB4cStGS1Vvb3QyazliUWpRazNJbFVNWnJzUGRGQkE9PQo=",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.8.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRG9tT01NUUt0UTlRZ3JRMWNuKzJvREthQ1JLOVVsY3FVN0x5c3RzMUljM3h3MVVaSTVHcDBSb3QxM0tpc2JFZTBSZXptdXk2R2pYaEFjTkVkclZFWlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzczNDE4CWZpbGU6TE9DSyBJTl8xLjkuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS45LjAKaDZsUXdDT0dPWm01KzBPQ0xhaXcwVlR4UzZ0dE9jeFRRZkJCZW9Wb1hYYkdlbUFqOGRJZ2FYWTRxUTNhT1c0Q09sZzdxSnluRWNkMStlVGMxa0gyRGc9PQo=",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.9.0_x64-setup.exe"
     }
   }
 }
