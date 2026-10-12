@@ -1,11 +1,11 @@
 {
-  "version": "1.7.0",
-  "notes": "LOCK IN 1.7: Body map on Today (tap muscles, recovery heatmap, build a workout, today's push/pull/leg day, weekly balance). Game time: earn gaming by working out, hard mode, Just-let-me-play with payback, bedtime lock and late-night nudges. Challenges 2.0: own page per challenge, timer & counter, levels, combos, make your own, 40 challenges, freezes, trophies.",
-  "pub_date": "2026-10-12T01:13:44Z",
+  "version": "1.8.0",
+  "notes": "Cloud sync over the internet (private GitHub repo) + Scroll control page",
+  "pub_date": "2026-10-12T01:42:30Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHZnaGV5eHJqcEhsWVBwcFFONHQ1a2NHUWh5VXlXZ0VqVmhwSEFOcXR3MElYOCtwdDlXWU9aWUQ5eUVBSTRkUkZzUExzODZQWlhRMXFyMWtyMlo4NmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzY3NDc1CWZpbGU6TE9DSyBJTl8xLjcuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS43LjAKbkhLSFJPSFQvRVNVWWsyL2pOQnpmcWpRRkI5QXJUQUhCeDVTK0VGOUdPMlB2OGk0dit3MHNBOHY0dHF6ZkpaK2liNmI2eHRhWW9Xa0hrZFFhalJwQXc9PQo=",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.7.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHN6aDdkRFpNTXpnTlVYbjZNNWhYdGdCSWljRGNsZ241WHhKa3U1aXA0MjVGaUkwRGJyRkc5WTBwNmJmeWZJMDhCcUp6ZE5tSEtodXVEcnpIV2JKTEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzY4OTk3CWZpbGU6TE9DSyBJTl8xLjguMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS44LjAKWUpheThPbEFwS0srYWVobkhTcEp4dXZIZFhwRWEzZGZUMWhsSWhFTzBpSzZTUnRMUFBoNTVyRFJzZ2hOUXV6SC8yVmFkdEkwN1pLNjJKOS81TTREREE9PQo=",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.8.0_x64-setup.exe"
     }
   }
 }
