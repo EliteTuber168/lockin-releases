@@ -1,8 +1,8 @@
 {
-  "version": "1.8.2",
-  "notes": "Logged challenge days now show up in Workouts",
-  "pub_date": "2026-10-12T02:30:34Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.8.2_android.apk",
-  "sha256": "a4af6b0190247f97c1b9aa52409223cbb8a3f61456ebf2d3827d614a32420bde",
-  "size": 18308802
+  "version": "1.8.3",
+  "notes": "Challenge days you logged earlier now appear in Workouts too",
+  "pub_date": "2026-10-12T02:41:37Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.8.3_android.apk",
+  "sha256": "b04fa499fe317661a2c8f0a37dce0a2d6baae20fbe5f6b006be92103c7a492b8",
+  "size": 18308798
 }
