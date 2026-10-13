@@ -1,11 +1,11 @@
 {
-  "version": "1.12.1",
-  "notes": "Bedtime: recommends when to get in bed from the current time. Morning: day summary (rest day check, muscles back in the green)",
-  "pub_date": "2026-10-13T05:01:19Z",
+  "version": "2.0.0",
+  "notes": "LOCK IN 2.0: new 5-hub design, smart Today, weekly auto-plan, strength tracking, coach chat, smart nudges, new widgets, new setup",
+  "pub_date": "2026-10-13T21:41:15Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHRhNEtTTUtZMllwVmo4TTR0bVptbDNtemdFVm5zM1pCa0FDNEQ2d0c1WGtobFo5L2NYalNIaGtuUXBtTWtSWUxEWG9WbUllUzVBYklnZjRIT2VQZWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODY3MzUzCWZpbGU6TE9DSyBJTl8xLjEyLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMTIuMQp2M2JIRGlsVkRjMGVuTW9qL1I0WFpVbVFsU3ZTZ3VsT3BLeTNqajg5MXoxUXk0aGpMZGovd3htQ2dZNDZwaFJTRVVxRStmU25pL1o4VC9lcjR5MCtBZz09Cg==",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.12.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRGo4S3BrNUdHeUh3YjYrbVUwMHNKN24yc2JwWE0wYTRXc0FnY0VnWFo4eldDVzZnc2lzWlU5VGQvMXR5djRObXlhRGV1SG81STA5S1hjUTlSandQN1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTI3MTg1CWZpbGU6TE9DSyBJTl8yLjAuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi4wLjAKLzFxT2lqZmhCQi9qTnpWQy9QMzNBQ01NQ0hiM1NsQmI4RVpwWlErZVNmTFBVR2t2amltT2tML1o0VXl4WVBwVm55bFpDLzh6Z3VZTFZrV2JlZ3VwQVE9PQo=",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.0.0_x64-setup.exe"
     }
   }
 }
