@@ -1,8 +1,8 @@
 {
-  "version": "1.12.0",
-  "notes": "Staying up late? Log why and get an adjusted sleep plan + catch-up bedtime",
-  "pub_date": "2026-10-13T04:40:02Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.12.0_android.apk",
-  "sha256": "60e963732d08703d2564ac30b73845482fe55853d553eb0a3d2ebc10364323a0",
-  "size": 18521818
+  "version": "1.12.1",
+  "notes": "Bedtime: recommends when to get in bed from the current time. Morning: day summary (rest day check, muscles back in the green)",
+  "pub_date": "2026-10-13T05:01:28Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.12.1_android.apk",
+  "sha256": "e3fb2659c9edc87dfee7dfe0f780097a4447363cbe5b1a23035f2eaf2ff36c2c",
+  "size": 18521814
 }
