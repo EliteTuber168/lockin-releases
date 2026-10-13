@@ -1,8 +1,8 @@
 {
-  "version": "1.11.0",
-  "notes": "Spotify: workout music page, auto-built Workout Mix playlist, now-playing controls in the player",
-  "pub_date": "2026-10-12T04:55:31Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.11.0_android.apk",
-  "sha256": "470fbc6057c90692d15b30417f693a2a3591507d181f0e2b896af9b120767b61",
+  "version": "1.12.0",
+  "notes": "Staying up late? Log why and get an adjusted sleep plan + catch-up bedtime",
+  "pub_date": "2026-10-13T04:40:02Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.12.0_android.apk",
+  "sha256": "60e963732d08703d2564ac30b73845482fe55853d553eb0a3d2ebc10364323a0",
   "size": 18521818
 }
