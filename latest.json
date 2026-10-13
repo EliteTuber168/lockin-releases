@@ -1,11 +1,11 @@
 {
-  "version": "1.11.0",
-  "notes": "Spotify: workout music page, auto-built Workout Mix playlist, now-playing controls in the player",
-  "pub_date": "2026-10-12T04:55:23Z",
+  "version": "1.12.0",
+  "notes": "Staying up late? Log why and get an adjusted sleep plan + catch-up bedtime",
+  "pub_date": "2026-10-13T04:39:54Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRGg1OG83WStiVVhFSDlMVDZ6MGxOQ1gwS1FoeDJCMERiYktmTkpKUTZ1SzBMWnVSN3h2RmRFQzVkNlJIcGlySk9TczRzcHhSa0RvWnFsaFpjZGUreUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzgwNjA2CWZpbGU6TE9DSyBJTl8xLjExLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMTEuMApYc2dyQWc0ajdSWkx4TFYvSjRCSnJiU3Ywa2lLYkhSUEluWjNEQ2pwQUJMemo3REVscmN5blQrZ2ozOTk0RGU0SFdrRUI4TVl6UEdZU2x3OWxGc09Bdz09Cg==",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.11.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRGp0b3JtdG1OMEQ4ZnlmQkJpamVVUFpONm1JdUZ0ajRtdk5CZlRYNlpjU05SNExmZkZEdUxxNXFFeEtNQUh6U2ZuN2ZKNUtnQXJUUndjdWN3alEzWEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODY1OTIzCWZpbGU6TE9DSyBJTl8xLjEyLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMTIuMApYL1RTNTVmcmphNG15NDVGOGRwdVhVNFB0Z0M0aXh2YnVFK3dqVnRZbXQwYUFuUFptS2trWCtNZi95ZXdIdExFWmJNYUFvRDVmcEhqTk9rdHp1V3REUT09Cg==",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_1.12.0_x64-setup.exe"
     }
   }
 }
