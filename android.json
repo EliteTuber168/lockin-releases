@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0",
-  "notes": "LOCK IN 2.0: new 5-hub design, smart Today, weekly auto-plan, strength tracking, coach chat, smart nudges, new widgets, new setup",
-  "pub_date": "2026-10-13T21:41:23Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.0.0_android.apk",
-  "sha256": "ce56ced6a26cd5254c587496a0cba598a3130011d7b8badb69e6ee702e3483fd",
+  "version": "2.0.1",
+  "notes": "Challenge mode: do all of today's challenges as one workout in the best order",
+  "pub_date": "2026-10-14T19:35:40Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.0.1_android.apk",
+  "sha256": "c8f0199cc4fe5210e4555343b095a2d63f812a06ad6c3fec3b2f702b67ed1757",
   "size": 18960932
 }
