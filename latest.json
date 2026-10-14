@@ -1,11 +1,11 @@
 {
-  "version": "2.0.0",
-  "notes": "LOCK IN 2.0: new 5-hub design, smart Today, weekly auto-plan, strength tracking, coach chat, smart nudges, new widgets, new setup",
-  "pub_date": "2026-10-13T21:41:15Z",
+  "version": "2.0.1",
+  "notes": "Challenge mode: do all of today's challenges as one workout in the best order",
+  "pub_date": "2026-10-14T19:35:33Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRGo4S3BrNUdHeUh3YjYrbVUwMHNKN24yc2JwWE0wYTRXc0FnY0VnWFo4eldDVzZnc2lzWlU5VGQvMXR5djRObXlhRGV1SG81STA5S1hjUTlSandQN1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTI3MTg1CWZpbGU6TE9DSyBJTl8yLjAuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi4wLjAKLzFxT2lqZmhCQi9qTnpWQy9QMzNBQ01NQ0hiM1NsQmI4RVpwWlErZVNmTFBVR2t2amltT2tML1o0VXl4WVBwVm55bFpDLzh6Z3VZTFZrV2JlZ3VwQVE9PQo=",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.0.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRGlSaXFLajRsVzltRGM1Umc3RDA2NnFmSE41Tk94QXhEUzVDckZpSWlxMW5wamdlVFlnRUhqdTZHbE5uSGlvdWtjN3pKN3g4NXZPTWJBTUVySmRYTVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDA2MDI3CWZpbGU6TE9DSyBJTl8yLjAuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi4wLjEKYy9hMTk2WFh6Rk9iYURHTUlkNEhseG5mcFVOV1F6dEdGUVVNbkZNNkRLU3E5eFZuUm9taXVRTGVOZTZ0NmtHeWoxd3BDQVJ4UCtWMWVMbHdySk05Q0E9PQo=",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.0.1_x64-setup.exe"
     }
   }
 }
