@@ -1,8 +1,8 @@
 {
-  "version": "2.1.0",
-  "notes": "LOCK IN 2.1 \u2014 Heart plan: labs, active minutes, cardio days, veggie/fruit/fiber, sugary drink and fried counters, supplement reminders.",
-  "pub_date": "2026-10-15T00:23:18Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.1.0_android.apk",
-  "sha256": "4349e1ccd41204dc244f74be2e1b8af68fcc5e700f1796393838b674cfd51c46",
+  "version": "2.1.1",
+  "notes": "LOCK IN 2.1.1 \u2014 WHOOP activities that run past a LOCK IN workout (like a stepper right after challenge mode) now count their extra minutes instead of being skipped.",
+  "pub_date": "2026-10-15T04:19:22Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.1.1_android.apk",
+  "sha256": "254156555e6a53c18b047bde2c0a3355ff7348e1d0e89d07efb6ca679d68329e",
   "size": 18977316
 }
