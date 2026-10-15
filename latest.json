@@ -1,11 +1,11 @@
 {
-  "version": "2.1.1",
-  "notes": "LOCK IN 2.1.1 \u2014 WHOOP activities that run past a LOCK IN workout (like a stepper right after challenge mode) now count their extra minutes instead of being skipped.",
-  "pub_date": "2026-10-15T04:19:14Z",
+  "version": "2.1.2",
+  "notes": "LOCK IN 2.1.2 \u2014 Online food search is far more reliable: uses Open Food Facts' newer search service, retries when their servers are busy, and shows a clear message with a Try again button.",
+  "pub_date": "2026-10-15T22:58:58Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHJkdUhnQmNISjh0M2RkTnU5UExhd2NDazRyMmJtQ0pTdlNQeVovYWg4eDUvVEJtT053Z0FTNFpOSGJ5djZ6ZStBVHQ4TFdUdFp0cnNjOTJRNTY2UkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDM3MzM4CWZpbGU6TE9DSyBJTl8yLjEuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi4xLjEKY1NiUHpGUU8zczdKckhybk16VkUrWHdmTklKZlo3ZnFDYXdkVXF6TTRXclNZNEduNTVyaUxxVVJHK3F3Zmd4NmVkZ0kvRlA4N21WT1czUDB0M0ZnQ1E9PQo=",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRG4xbVRDS2JOMmwyTHViQURtRml2VnJLTjFkNlZ2engzUzVwQmw2SThsQzVDTjd5ekdrblAzbVlqMzlCQnRRRFFTYzcxRHZJNnpiMDZBbkM2RG4vWWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTA0NzU3CWZpbGU6TE9DSyBJTl8yLjEuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi4xLjIKWWMzRy9nckhRNU5GNmNRRVVaMWw5SU4vUWtOQU9qVXFkN0JqMEgxbTRiWmM1VEJ2M1poZFRxTUFtbndBZitFaW5kMkJ0cFBpWXFlRW5hT0lVNis0QWc9PQo=",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.1.2_x64-setup.exe"
     }
   }
 }
