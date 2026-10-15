@@ -1,8 +1,8 @@
 {
-  "version": "2.0.1",
-  "notes": "Challenge mode: do all of today's challenges as one workout in the best order",
-  "pub_date": "2026-10-14T19:35:40Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.0.1_android.apk",
-  "sha256": "c8f0199cc4fe5210e4555343b095a2d63f812a06ad6c3fec3b2f702b67ed1757",
-  "size": 18960932
+  "version": "2.1.0",
+  "notes": "LOCK IN 2.1 \u2014 Heart plan: labs, active minutes, cardio days, veggie/fruit/fiber, sugary drink and fried counters, supplement reminders.",
+  "pub_date": "2026-10-15T00:23:18Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.1.0_android.apk",
+  "sha256": "4349e1ccd41204dc244f74be2e1b8af68fcc5e700f1796393838b674cfd51c46",
+  "size": 18977316
 }
