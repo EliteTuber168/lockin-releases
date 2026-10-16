@@ -1,11 +1,11 @@
 {
-  "version": "2.3.0",
-  "notes": "LOCK IN 2.3 \u2014 More AI: type what you ate, scan nutrition labels, scan restaurant menus for the best picks, the coach answers anything it didn't understand using your data, and a weekly AI recap with 3 goals for next week.",
-  "pub_date": "2026-10-16T03:08:36Z",
+  "version": "2.3.1",
+  "notes": "LOCK IN 2.3.1 \u2014 Fixes internet sync getting stuck on 'different versions' after an update (older sync data is now applied instead of blocking).",
+  "pub_date": "2026-10-16T20:45:28Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRG1QWXVLbldGVjFMeXdYWXIxa1hhTmpiZ0ZHNlR2bVpzaHphSkRlSGx4M05xR1NzMVVVWGxpY0toSXgwMENhdlRraXRGcUxWVDFQdGROQUdEZ3BtSXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTE5NzU2CWZpbGU6TE9DSyBJTl8yLjMuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi4zLjAKeXZSN24vVlYwcHE3TlpCYndRTUtWWCtoRi96Y2pHYWQ5L1V5Y2NRblNOTlNhZXF2NnVBNTZtb25HSFJRb01yU09YNWtiYzE2RXNobFl4eGMwbi9hQnc9PQo=",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.3.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHA5TXhOaXJpUVdoUFVFWC8zU3pCOWVZVHMrSXJod3RteWFOZnVFV0FsUlZSTm4zbGNiS0V4ZFFTQlAvUzMxb2o3YlFoRmY3R2lsZ2pzbmFDNFFOM0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTgzMDEzCWZpbGU6TE9DSyBJTl8yLjMuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi4zLjEKMzFTT1ZmSWc2dDdReWF6VXlTa2grSTk0U0FVM1VIVy9yK3NocWl0d1g5MDRPTGE3RmRSYnZrdVdLenNoRUhhVmJPNG1SeTlpSkhvZzVTejBBdmNSQlE9PQo=",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.3.1_x64-setup.exe"
     }
   }
 }
