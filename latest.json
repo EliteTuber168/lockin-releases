@@ -1,11 +1,11 @@
 {
-  "version": "2.3.1",
-  "notes": "LOCK IN 2.3.1 \u2014 Fixes internet sync getting stuck on 'different versions' after an update (older sync data is now applied instead of blocking).",
-  "pub_date": "2026-10-16T20:45:28Z",
+  "version": "2.4.0",
+  "notes": "LOCK IN 2.4 \u2014 Health scanner (Fuel \u2192 Health scan): scan a barcode or snap a product for a 0\u2013100 health score built around your heart plan, protein, sodium and processing, with flagged additives, an AI explanation, healthier swaps, scan history and one-tap logging.",
+  "pub_date": "2026-10-16T23:38:21Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHA5TXhOaXJpUVdoUFVFWC8zU3pCOWVZVHMrSXJod3RteWFOZnVFV0FsUlZSTm4zbGNiS0V4ZFFTQlAvUzMxb2o3YlFoRmY3R2lsZ2pzbmFDNFFOM0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTgzMDEzCWZpbGU6TE9DSyBJTl8yLjMuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi4zLjEKMzFTT1ZmSWc2dDdReWF6VXlTa2grSTk0U0FVM1VIVy9yK3NocWl0d1g5MDRPTGE3RmRSYnZrdVdLenNoRUhhVmJPNG1SeTlpSkhvZzVTejBBdmNSQlE9PQo=",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.3.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRGpjREhyOEtWaktSbTZleGx4Mmx0UkpYV3A3TDY5OGMxdWFrTGUvZGdjVXFIekVBa25PUGhYc0pOMjcrRkk4UzlvOHFYZ0RhUDNoL1B6aUdyRmIyY1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTkzNDMxCWZpbGU6TE9DSyBJTl8yLjQuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi40LjAKeDI4RzdFcWdsNGR3Nm1RNC8wQ0dVUnFiZWZ1T3pGcVJtcXBrZHhBdzEyTm9IVloyUjRxV1RsbXBSSURFek4rMStrTExpWE5YaC9VSUhIV1grVFV1QUE9PQo=",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.4.0_x64-setup.exe"
     }
   }
 }
