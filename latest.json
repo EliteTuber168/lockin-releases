@@ -1,11 +1,11 @@
 {
-  "version": "2.4.0",
-  "notes": "LOCK IN 2.4 \u2014 Health scanner (Fuel \u2192 Health scan): scan a barcode or snap a product for a 0\u2013100 health score built around your heart plan, protein, sodium and processing, with flagged additives, an AI explanation, healthier swaps, scan history and one-tap logging.",
-  "pub_date": "2026-10-16T23:38:21Z",
+  "version": "2.4.1",
+  "notes": "LOCK IN 2.4.1 \u2014 Fixes getting stuck on a blank screen after cancelling the barcode/QR scanner.",
+  "pub_date": "2026-10-16T23:55:42Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRGpjREhyOEtWaktSbTZleGx4Mmx0UkpYV3A3TDY5OGMxdWFrTGUvZGdjVXFIekVBa25PUGhYc0pOMjcrRkk4UzlvOHFYZ0RhUDNoL1B6aUdyRmIyY1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTkzNDMxCWZpbGU6TE9DSyBJTl8yLjQuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi40LjAKeDI4RzdFcWdsNGR3Nm1RNC8wQ0dVUnFiZWZ1T3pGcVJtcXBrZHhBdzEyTm9IVloyUjRxV1RsbXBSSURFek4rMStrTExpWE5YaC9VSUhIV1grVFV1QUE9PQo=",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.4.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRGlVaTVBb1dLN1dmb3B2S0V4MWVyQW9aQlp4VDhWYTlqdGFpS1dJQ3gzY1dYOVpiU3RYSHk5R2lJYWY2MnFOSVJhdGZLcWNWaUxybmdjM1Z2SXcxREE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTk0NjIxCWZpbGU6TE9DSyBJTl8yLjQuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi40LjEKNjBMMTVITERybW95N21tc0FFMGpkdTl5RnlpdGRyTG4zZWNYcVV4TFR6MGV1MW1ydEJmWDhTQko1YW13TEd4YkxiZjhXcnFRaHhhdzZhSFh1clhvQkE9PQo=",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.4.1_x64-setup.exe"
     }
   }
 }
