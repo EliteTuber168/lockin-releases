@@ -1,8 +1,8 @@
 {
-  "version": "2.2.0",
-  "notes": "LOCK IN 2.2 \u2014 Snap a plate: take a photo of your meal and AI lists each food with amount, protein, carbs, fat and fiber. Fix anything, then log it in one tap. Needs your own Anthropic API key (Settings \u2192 AI food photos).",
-  "pub_date": "2026-10-16T00:36:02Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.2.0_android.apk",
-  "sha256": "c2dad2010dc7631b200220f243c9b1737ff97b65460f9e5aea7d7a42ae2c2257",
+  "version": "2.2.1",
+  "notes": "LOCK IN 2.2.1 \u2014 Fixes phone camera photos not opening in Snap a plate (reads the photo once, handles big camera photos, clear message for HEIC).",
+  "pub_date": "2026-10-16T02:15:43Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.2.1_android.apk",
+  "sha256": "dbdef9885ac7cc2a40415403e5b65383d12f98ab5e961a949f6cc50bc5388a66",
   "size": 19026468
 }
