@@ -1,11 +1,11 @@
 {
-  "version": "2.1.2",
-  "notes": "LOCK IN 2.1.2 \u2014 Online food search is far more reliable: uses Open Food Facts' newer search service, retries when their servers are busy, and shows a clear message with a Try again button.",
-  "pub_date": "2026-10-15T22:58:58Z",
+  "version": "2.2.0",
+  "notes": "LOCK IN 2.2 \u2014 Snap a plate: take a photo of your meal and AI lists each food with amount, protein, carbs, fat and fiber. Fix anything, then log it in one tap. Needs your own Anthropic API key (Settings \u2192 AI food photos).",
+  "pub_date": "2026-10-16T00:35:56Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRG4xbVRDS2JOMmwyTHViQURtRml2VnJLTjFkNlZ2engzUzVwQmw2SThsQzVDTjd5ekdrblAzbVlqMzlCQnRRRFFTYzcxRHZJNnpiMDZBbkM2RG4vWWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTA0NzU3CWZpbGU6TE9DSyBJTl8yLjEuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi4xLjIKWWMzRy9nckhRNU5GNmNRRVVaMWw5SU4vUWtOQU9qVXFkN0JqMEgxbTRiWmM1VEJ2M1poZFRxTUFtbndBZitFaW5kMkJ0cFBpWXFlRW5hT0lVNis0QWc9PQo=",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRGpvL1Zoc1ZvSjdxem1BSy9mZjJPY00rRnNNSW0vaUJUNVA0QVN2elNoUjhyeE1VcFVtUmhSVHlQMENxQjBodEZYR3VsTkx5QkVnYU1xbFVlT1c0aEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTEwNTY3CWZpbGU6TE9DSyBJTl8yLjIuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi4yLjAKQi80SWpoNDdkWEFFdm9BR3VjbVVWS0kyRlU3YzBGVVdKQy9leWJBeG9vTmFhMkNNdUpDTVRTY0xGKzhtTmlseGwxUHRqdjZKaTd2U3VRQ2NldFkvRGc9PQo=",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.2.0_x64-setup.exe"
     }
   }
 }
