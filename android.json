@@ -1,8 +1,8 @@
 {
-  "version": "2.1.2",
-  "notes": "LOCK IN 2.1.2 \u2014 Online food search is far more reliable: uses Open Food Facts' newer search service, retries when their servers are busy, and shows a clear message with a Try again button.",
-  "pub_date": "2026-10-15T22:59:05Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.1.2_android.apk",
-  "sha256": "a3c9da7492622272687fe68da3e12253bffc4a5cd1311f02bbbfacda9d3bb13f",
-  "size": 18977316
+  "version": "2.2.0",
+  "notes": "LOCK IN 2.2 \u2014 Snap a plate: take a photo of your meal and AI lists each food with amount, protein, carbs, fat and fiber. Fix anything, then log it in one tap. Needs your own Anthropic API key (Settings \u2192 AI food photos).",
+  "pub_date": "2026-10-16T00:36:02Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.2.0_android.apk",
+  "sha256": "c2dad2010dc7631b200220f243c9b1737ff97b65460f9e5aea7d7a42ae2c2257",
+  "size": 19026468
 }
