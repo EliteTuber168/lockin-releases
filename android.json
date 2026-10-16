@@ -1,8 +1,8 @@
 {
-  "version": "2.4.0",
-  "notes": "LOCK IN 2.4 \u2014 Health scanner (Fuel \u2192 Health scan): scan a barcode or snap a product for a 0\u2013100 health score built around your heart plan, protein, sodium and processing, with flagged additives, an AI explanation, healthier swaps, scan history and one-tap logging.",
-  "pub_date": "2026-10-16T23:38:28Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.4.0_android.apk",
-  "sha256": "a1899e31d6f36eac24996b38545f66055b04f29e1206ed47075afa50d3ebd502",
+  "version": "2.4.1",
+  "notes": "LOCK IN 2.4.1 \u2014 Fixes getting stuck on a blank screen after cancelling the barcode/QR scanner.",
+  "pub_date": "2026-10-16T23:55:50Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.4.1_android.apk",
+  "sha256": "0169cdf937233c604d3fdd809a5c4bf8cdeee173285b2522fe6fec6e57a9e2b8",
   "size": 19190308
 }
