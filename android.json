@@ -1,8 +1,8 @@
 {
-  "version": "2.3.0",
-  "notes": "LOCK IN 2.3 \u2014 More AI: type what you ate, scan nutrition labels, scan restaurant menus for the best picks, the coach answers anything it didn't understand using your data, and a weekly AI recap with 3 goals for next week.",
-  "pub_date": "2026-10-16T03:08:42Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.3.0_android.apk",
-  "sha256": "8dc9f7f792d438cbecbea288517d940f8ff51a0b84ab69064c6e4be91f18415e",
+  "version": "2.3.1",
+  "notes": "LOCK IN 2.3.1 \u2014 Fixes internet sync getting stuck on 'different versions' after an update (older sync data is now applied instead of blocking).",
+  "pub_date": "2026-10-16T20:45:35Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.3.1_android.apk",
+  "sha256": "47d76dab96a49083689d41103a72cc5277f962571341fa4fd77e8c59c5b3eca8",
   "size": 19124772
 }
