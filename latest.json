@@ -1,11 +1,11 @@
 {
-  "version": "2.5.0",
-  "notes": "LOCK IN 2.5 \u2014 Always-on internet sync: one-scan 'Link phone' setup (no Wi-Fi needed), syncs on open/close and every 2 minutes, sync status on Today, GitHub token expiry warnings, and a renewed token reaches your phone automatically.",
-  "pub_date": "2026-10-18T23:16:44Z",
+  "version": "2.6.0",
+  "notes": "LOCK IN 2.6 \u2014 Meals (Fuel \u2192 Meals): 100+ preset meals with filters (high protein, quick, heart-friendly, main ingredient like eggs or chicken), your own meals (write ingredients + steps, or just type a name and AI writes the recipe), AI nutrition fill-in, favorites and one-tap logging.",
+  "pub_date": "2026-10-18T23:40:13Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRGloVEp1ekRpTDk5UXN1WjN1R040bWNVdUJMbStCKzJjYVo0Tk1lOTcyQ3pFZGlzdmxDZ2Y2ZGNvdmpIWG1OaUlMVnZjQ0NoTDJ1c280cUZ6VVN5OGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzY0OTk5CWZpbGU6TE9DSyBJTl8yLjUuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi41LjAKT3JrTTM3VW9RaklsU3dXaW1ZdnFyVE85cDJDdzVOa0VsNXROcWVJdlZ4aDNtNGxXbVkyZ1ZGUm4wTkhpNzZ4T29RS1FpMWRtL3ZCV051SUtOQnQ0QWc9PQo=",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.5.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHYzaXE1WUQva0k1NXJ4aWRsRThOOG5oc2pZZlRkVGN6QnBFSDIvN2t6bng4THlrOXhDY1ZFc3ZLVkpWbTFDRFYzWDNDMjRaeEcrRXRuWFZ2VThQSVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzY2NDg2CWZpbGU6TE9DSyBJTl8yLjYuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi42LjAKTjBxd1hta3dLQ0I4Qkt6TEJqVVhuK1N6VlU0RitaTWluR1Fad3BxQk1wVDl0ekNKdXBuTVhkVTd4cnNsVG5qeWR3ZWptTHJ2R3pZN0Z6dmdjOWtNREE9PQo=",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.6.0_x64-setup.exe"
     }
   }
 }
