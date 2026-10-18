@@ -1,11 +1,11 @@
 {
-  "version": "2.4.1",
-  "notes": "LOCK IN 2.4.1 \u2014 Fixes getting stuck on a blank screen after cancelling the barcode/QR scanner.",
-  "pub_date": "2026-10-16T23:55:42Z",
+  "version": "2.5.0",
+  "notes": "LOCK IN 2.5 \u2014 Always-on internet sync: one-scan 'Link phone' setup (no Wi-Fi needed), syncs on open/close and every 2 minutes, sync status on Today, GitHub token expiry warnings, and a renewed token reaches your phone automatically.",
+  "pub_date": "2026-10-18T23:16:44Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRGlVaTVBb1dLN1dmb3B2S0V4MWVyQW9aQlp4VDhWYTlqdGFpS1dJQ3gzY1dYOVpiU3RYSHk5R2lJYWY2MnFOSVJhdGZLcWNWaUxybmdjM1Z2SXcxREE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTk0NjIxCWZpbGU6TE9DSyBJTl8yLjQuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi40LjEKNjBMMTVITERybW95N21tc0FFMGpkdTl5RnlpdGRyTG4zZWNYcVV4TFR6MGV1MW1ydEJmWDhTQko1YW13TEd4YkxiZjhXcnFRaHhhdzZhSFh1clhvQkE9PQo=",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.4.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRGloVEp1ekRpTDk5UXN1WjN1R040bWNVdUJMbStCKzJjYVo0Tk1lOTcyQ3pFZGlzdmxDZ2Y2ZGNvdmpIWG1OaUlMVnZjQ0NoTDJ1c280cUZ6VVN5OGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzY0OTk5CWZpbGU6TE9DSyBJTl8yLjUuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi41LjAKT3JrTTM3VW9RaklsU3dXaW1ZdnFyVE85cDJDdzVOa0VsNXROcWVJdlZ4aDNtNGxXbVkyZ1ZGUm4wTkhpNzZ4T29RS1FpMWRtL3ZCV051SUtOQnQ0QWc9PQo=",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.5.0_x64-setup.exe"
     }
   }
 }
