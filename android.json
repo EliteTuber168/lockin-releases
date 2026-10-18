@@ -1,8 +1,8 @@
 {
-  "version": "2.4.1",
-  "notes": "LOCK IN 2.4.1 \u2014 Fixes getting stuck on a blank screen after cancelling the barcode/QR scanner.",
-  "pub_date": "2026-10-16T23:55:50Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.4.1_android.apk",
-  "sha256": "0169cdf937233c604d3fdd809a5c4bf8cdeee173285b2522fe6fec6e57a9e2b8",
-  "size": 19190308
+  "version": "2.5.0",
+  "notes": "LOCK IN 2.5 \u2014 Always-on internet sync: one-scan 'Link phone' setup (no Wi-Fi needed), syncs on open/close and every 2 minutes, sync status on Today, GitHub token expiry warnings, and a renewed token reaches your phone automatically.",
+  "pub_date": "2026-10-18T23:16:49Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.5.0_android.apk",
+  "sha256": "cd390e3bb690a6549563bb7e0e9a78e900d86412d9f6a7ce22d70f7571e5e762",
+  "size": 19206692
 }
