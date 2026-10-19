@@ -1,8 +1,8 @@
 {
-  "version": "2.6.0",
-  "notes": "LOCK IN 2.6 \u2014 Meals (Fuel \u2192 Meals): 100+ preset meals with filters (high protein, quick, heart-friendly, main ingredient like eggs or chicken), your own meals (write ingredients + steps, or just type a name and AI writes the recipe), AI nutrition fill-in, favorites and one-tap logging.",
-  "pub_date": "2026-10-18T23:40:18Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.6.0_android.apk",
-  "sha256": "bb5b69553441edc313a1aed78e0ee2a826f6b795f3742769c41ccb65580777c0",
-  "size": 19255844
+  "version": "2.7.0",
+  "notes": "LOCK IN 2.7 \u2014 Import recipes from a link (Fuel \u2192 Meals \u2192 Add my meal \u2192 From a link): recipe sites import instantly with ingredients, steps and nutrition; blogs and TikTok/Instagram/YouTube captions are read by AI.",
+  "pub_date": "2026-10-19T00:22:35Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.7.0_android.apk",
+  "sha256": "7ed58ac4c2c8046bf141ea4ccefd164473976a5ca339ba28ef1460ea4cbcfa59",
+  "size": 19288612
 }
