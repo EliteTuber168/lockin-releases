@@ -1,11 +1,11 @@
 {
-  "version": "2.6.0",
-  "notes": "LOCK IN 2.6 \u2014 Meals (Fuel \u2192 Meals): 100+ preset meals with filters (high protein, quick, heart-friendly, main ingredient like eggs or chicken), your own meals (write ingredients + steps, or just type a name and AI writes the recipe), AI nutrition fill-in, favorites and one-tap logging.",
-  "pub_date": "2026-10-18T23:40:13Z",
+  "version": "2.7.0",
+  "notes": "LOCK IN 2.7 \u2014 Import recipes from a link (Fuel \u2192 Meals \u2192 Add my meal \u2192 From a link): recipe sites import instantly with ingredients, steps and nutrition; blogs and TikTok/Instagram/YouTube captions are read by AI.",
+  "pub_date": "2026-10-19T00:22:31Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHYzaXE1WUQva0k1NXJ4aWRsRThOOG5oc2pZZlRkVGN6QnBFSDIvN2t6bng4THlrOXhDY1ZFc3ZLVkpWbTFDRFYzWDNDMjRaeEcrRXRuWFZ2VThQSVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzY2NDg2CWZpbGU6TE9DSyBJTl8yLjYuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi42LjAKTjBxd1hta3dLQ0I4Qkt6TEJqVVhuK1N6VlU0RitaTWluR1Fad3BxQk1wVDl0ekNKdXBuTVhkVTd4cnNsVG5qeWR3ZWptTHJ2R3pZN0Z6dmdjOWtNREE9PQo=",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.6.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHVsWVNjT3VvZ3BtKzZ5WGdTV1MrYWoxTXl1UmRaQm1WZ2F1Q1A1eUx5VWZIcmROU1hsSUlQOGxiQWZqaFB5WXI0bWJrcGJuWjlHSHdYYkg2T3JiVUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzY5MDIxCWZpbGU6TE9DSyBJTl8yLjcuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi43LjAKSmtFeldhbUFtc1ZjVU1tdElvQXBCVnpaQ01heXdsRUFoQnRxOWVNdmZNd1pzcDFmb3MrcjJLbEo3bFRseWxtYzBGQjQzWmQyQWdLQm1KeG44NkI5REE9PQo=",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.7.0_x64-setup.exe"
     }
   }
 }
