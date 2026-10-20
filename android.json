@@ -1,8 +1,8 @@
 {
-  "version": "2.7.0",
-  "notes": "LOCK IN 2.7 \u2014 Import recipes from a link (Fuel \u2192 Meals \u2192 Add my meal \u2192 From a link): recipe sites import instantly with ingredients, steps and nutrition; blogs and TikTok/Instagram/YouTube captions are read by AI.",
-  "pub_date": "2026-10-19T00:22:35Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.7.0_android.apk",
-  "sha256": "7ed58ac4c2c8046bf141ea4ccefd164473976a5ca339ba28ef1460ea4cbcfa59",
-  "size": 19288612
+  "version": "2.8.0",
+  "notes": "LOCK IN 2.8 \u2014 Dumbbell Builder: a real bench + dumbbell program. Day A/B on Mon/Wed/Fri with your last weights and when to go heavier, Thursday run/walk intervals, walks other days, Sunday off. Missed lifts slide to the next open day. Optional 6 AM wake-up every day. Start it from Train \u2192 This week.",
+  "pub_date": "2026-10-20T02:41:06Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.8.0_android.apk",
+  "sha256": "f250be65296ae0d74aa50a8441fedac96f044f137ac0dc5411a5f2c06951ca2c",
+  "size": 19304996
 }
