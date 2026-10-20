@@ -1,11 +1,11 @@
 {
-  "version": "2.8.0",
-  "notes": "LOCK IN 2.8 \u2014 Dumbbell Builder: a real bench + dumbbell program. Day A/B on Mon/Wed/Fri with your last weights and when to go heavier, Thursday run/walk intervals, walks other days, Sunday off. Missed lifts slide to the next open day. Optional 6 AM wake-up every day. Start it from Train \u2192 This week.",
-  "pub_date": "2026-10-20T02:41:00Z",
+  "version": "2.9.0",
+  "notes": "LOCK IN 2.9 \u2014 Motivation: rank & levels (XP for lifts, runs, walks, PRs, challenges, chain), a don't-break-the-chain calendar on Today, big PR celebrations, lift-time reminders for Dumbbell Builder, screen stays on during workouts and the interval timer, copy-paste workout text for WHOOP AI after every workout, and Morning Lock on the phone (first unlock each morning: 2-min wake-up moves + check-in before anything else).",
+  "pub_date": "2026-10-20T03:59:22Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRGphcTVMaTIvREpnWWRPNHJHNXVsbEx2SkdqYW5DKzJPKzFCdUNyc0sxZjN0WjljdHVTVDhxbTkyaDN1bjQ3clRYU2MrRmtFdWlwa2dxYWpPd21SWUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDYzNTMzCWZpbGU6TE9DSyBJTl8yLjguMF94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi44LjAKemRseTc3MDVyUThaTWl5VjB3T2RWQzN4NkFrbWp1ZXl3djN5bzZnQ3lNRC9VWGMydmtkcDhBWjh3WFU1SmRxZE9LT0JFSDdEQXU2RytEK0Jzd3N1Q0E9PQo=",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.8.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRGtXM1JERitFK1FzZlM4Z1ZGWkQxOS9GZ1FQQ3FkV3FOdFpPWEFIaUtHUWxpRFpuYjN1anFZdXhkS3RHNFJQeGF4ZE01S3pPZlpweEYrMWg3TjYwSlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDY4Mzc5CWZpbGU6TE9DSyBJTl8yLjkuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi45LjAKalhwQ05aVU9BYitRL2dkNGo5NlU2YkFpU2FUZ1NZRnR2bXM3WXdxc2dwdUNDRDYxY1pxTFZMZWFpdi9YdjJ0NHlOUmxoMVJxT0ttYm1CbWx3d0psRGc9PQo=",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.9.0_x64-setup.exe"
     }
   }
 }
