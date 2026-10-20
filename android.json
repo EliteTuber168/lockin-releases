@@ -1,8 +1,8 @@
 {
-  "version": "2.9.0",
-  "notes": "LOCK IN 2.9 \u2014 Motivation: rank & levels (XP for lifts, runs, walks, PRs, challenges, chain), a don't-break-the-chain calendar on Today, big PR celebrations, lift-time reminders for Dumbbell Builder, screen stays on during workouts and the interval timer, copy-paste workout text for WHOOP AI after every workout, and Morning Lock on the phone (first unlock each morning: 2-min wake-up moves + check-in before anything else).",
-  "pub_date": "2026-10-20T03:59:27Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.9.0_android.apk",
-  "sha256": "29c605606f234ff9e2f75f114fa138c1c13ab92176c2aad93c8d0e1937e73601",
-  "size": 19305132
+  "version": "2.10.0",
+  "notes": "LOCK IN 2.10 \u2014 Every preset meal fact-checked against USDA data (81 corrected, clearer ingredient amounts), a few food-database fixes (tuna, ground turkey, jerky, chocolate milk, corn, fries, PB&J), and 15 new meals: burrito bowl, protein pancakes, egg muffin cups, spicy tuna bowl, Greek chicken pita, rotisserie power plate, BBQ chicken sandwich, protein oatmeal, cottage cheese berry bowl, freezer burritos, chicken & sweet potato meal prep, turkey avocado sandwich, edamame, steak & rice bowl, yogurt ranch dip.",
+  "pub_date": "2026-10-20T19:17:17Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.10.0_android.apk",
+  "sha256": "9d4aca685fb7c4538e60ceaf3bf043ae90f83ad15bfab37f92c665b03af31795",
+  "size": 19321520
 }
