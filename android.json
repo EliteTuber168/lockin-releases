@@ -1,8 +1,8 @@
 {
-  "version": "2.8.0",
-  "notes": "LOCK IN 2.8 \u2014 Dumbbell Builder: a real bench + dumbbell program. Day A/B on Mon/Wed/Fri with your last weights and when to go heavier, Thursday run/walk intervals, walks other days, Sunday off. Missed lifts slide to the next open day. Optional 6 AM wake-up every day. Start it from Train \u2192 This week.",
-  "pub_date": "2026-10-20T02:41:06Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.8.0_android.apk",
-  "sha256": "f250be65296ae0d74aa50a8441fedac96f044f137ac0dc5411a5f2c06951ca2c",
-  "size": 19304996
+  "version": "2.9.0",
+  "notes": "LOCK IN 2.9 \u2014 Motivation: rank & levels (XP for lifts, runs, walks, PRs, challenges, chain), a don't-break-the-chain calendar on Today, big PR celebrations, lift-time reminders for Dumbbell Builder, screen stays on during workouts and the interval timer, copy-paste workout text for WHOOP AI after every workout, and Morning Lock on the phone (first unlock each morning: 2-min wake-up moves + check-in before anything else).",
+  "pub_date": "2026-10-20T03:59:27Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.9.0_android.apk",
+  "sha256": "29c605606f234ff9e2f75f114fa138c1c13ab92176c2aad93c8d0e1937e73601",
+  "size": 19305132
 }
