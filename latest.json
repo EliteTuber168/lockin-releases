@@ -1,11 +1,11 @@
 {
-  "version": "2.7.0",
-  "notes": "LOCK IN 2.7 \u2014 Import recipes from a link (Fuel \u2192 Meals \u2192 Add my meal \u2192 From a link): recipe sites import instantly with ingredients, steps and nutrition; blogs and TikTok/Instagram/YouTube captions are read by AI.",
-  "pub_date": "2026-10-19T00:22:31Z",
+  "version": "2.8.0",
+  "notes": "LOCK IN 2.8 \u2014 Dumbbell Builder: a real bench + dumbbell program. Day A/B on Mon/Wed/Fri with your last weights and when to go heavier, Thursday run/walk intervals, walks other days, Sunday off. Missed lifts slide to the next open day. Optional 6 AM wake-up every day. Start it from Train \u2192 This week.",
+  "pub_date": "2026-10-20T02:41:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHVsWVNjT3VvZ3BtKzZ5WGdTV1MrYWoxTXl1UmRaQm1WZ2F1Q1A1eUx5VWZIcmROU1hsSUlQOGxiQWZqaFB5WXI0bWJrcGJuWjlHSHdYYkg2T3JiVUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzY5MDIxCWZpbGU6TE9DSyBJTl8yLjcuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi43LjAKSmtFeldhbUFtc1ZjVU1tdElvQXBCVnpaQ01heXdsRUFoQnRxOWVNdmZNd1pzcDFmb3MrcjJLbEo3bFRseWxtYzBGQjQzWmQyQWdLQm1KeG44NkI5REE9PQo=",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.7.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRGphcTVMaTIvREpnWWRPNHJHNXVsbEx2SkdqYW5DKzJPKzFCdUNyc0sxZjN0WjljdHVTVDhxbTkyaDN1bjQ3clRYU2MrRmtFdWlwa2dxYWpPd21SWUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDYzNTMzCWZpbGU6TE9DSyBJTl8yLjguMF94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi44LjAKemRseTc3MDVyUThaTWl5VjB3T2RWQzN4NkFrbWp1ZXl3djN5bzZnQ3lNRC9VWGMydmtkcDhBWjh3WFU1SmRxZE9LT0JFSDdEQXU2RytEK0Jzd3N1Q0E9PQo=",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.8.0_x64-setup.exe"
     }
   }
 }
