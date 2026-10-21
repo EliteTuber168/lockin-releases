@@ -1,8 +1,8 @@
 {
-  "version": "2.10.0",
-  "notes": "LOCK IN 2.10 \u2014 Every preset meal fact-checked against USDA data (81 corrected, clearer ingredient amounts), a few food-database fixes (tuna, ground turkey, jerky, chocolate milk, corn, fries, PB&J), and 15 new meals: burrito bowl, protein pancakes, egg muffin cups, spicy tuna bowl, Greek chicken pita, rotisserie power plate, BBQ chicken sandwich, protein oatmeal, cottage cheese berry bowl, freezer burritos, chicken & sweet potato meal prep, turkey avocado sandwich, edamame, steak & rice bowl, yogurt ranch dip.",
-  "pub_date": "2026-10-20T19:17:17Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.10.0_android.apk",
-  "sha256": "9d4aca685fb7c4538e60ceaf3bf043ae90f83ad15bfab37f92c665b03af31795",
-  "size": 19321520
+  "version": "2.10.1",
+  "notes": "LOCK IN 2.10.1 \u2014 Morning Lock is lighter: no workout. Just a one-minute wake-up checklist (drink water, get some light, stretch, optional weigh-in), then the quick check-in. Emergency exit now on every step.",
+  "pub_date": "2026-10-21T04:38:15Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.10.1_android.apk",
+  "sha256": "d753258a404c208cc7bc4b67a4661a39a782233d5a29f1b5cc069555f10a5a09",
+  "size": 19337904
 }
