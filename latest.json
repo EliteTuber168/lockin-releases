@@ -1,11 +1,11 @@
 {
-  "version": "2.10.0",
-  "notes": "LOCK IN 2.10 \u2014 Every preset meal fact-checked against USDA data (81 corrected, clearer ingredient amounts), a few food-database fixes (tuna, ground turkey, jerky, chocolate milk, corn, fries, PB&J), and 15 new meals: burrito bowl, protein pancakes, egg muffin cups, spicy tuna bowl, Greek chicken pita, rotisserie power plate, BBQ chicken sandwich, protein oatmeal, cottage cheese berry bowl, freezer burritos, chicken & sweet potato meal prep, turkey avocado sandwich, edamame, steak & rice bowl, yogurt ranch dip.",
-  "pub_date": "2026-10-20T19:17:11Z",
+  "version": "2.10.1",
+  "notes": "LOCK IN 2.10.1 \u2014 Morning Lock is lighter: no workout. Just a one-minute wake-up checklist (drink water, get some light, stretch, optional weigh-in), then the quick check-in. Emergency exit now on every step.",
+  "pub_date": "2026-10-21T04:38:10Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRGpHTkF2OGpUT1NNY3lxN29JNFZzd29SZXlrNi9yV3g5dE1CRnVPZVY3ODNmZ0NwL3hYT2NnUFVxWng5K1lZdXRDVFFUZTZTOU1aU0lRcTFub1RkeFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTIzMzkxCWZpbGU6TE9DSyBJTl8yLjEwLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjIuMTAuMAp5c0lNUG1HbFBkTlhscFRKYWxjWXVwL21ua2tBY2JLNE9QTXJXc20xQThQdnJld25OVStlbE1lUHJCeU8wbWhTMHNlNUFpdHNIRCtWZloydUlHNC9Ddz09Cg==",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.10.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRG1ueGxVck51RnlDdWh0R0JxR0xLS3VCYmN4RHJwd1loRndDNkYzbTNJc2dRdFgzZ0ZSREk0TnhTd1FXcEJINTQrSERlUE93QzZuVkdhb2FTbmJMcmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTU3MTAwCWZpbGU6TE9DSyBJTl8yLjEwLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjIuMTAuMQp3K3R2T09xMFQ3SytIRlUrWDVmRzVQcDlQRkpETEtacmxobEI0M1FCSmJzRE5mSEIwc3hQOE1wT1ZpbGdRY3kzL0Fzc1BpemNVTXRqVjR0YUhJQjZDUT09Cg==",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.10.1_x64-setup.exe"
     }
   }
 }
