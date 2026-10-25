@@ -1,8 +1,8 @@
 {
-  "version": "2.10.1",
-  "notes": "LOCK IN 2.10.1 \u2014 Morning Lock is lighter: no workout. Just a one-minute wake-up checklist (drink water, get some light, stretch, optional weigh-in), then the quick check-in. Emergency exit now on every step.",
-  "pub_date": "2026-10-21T04:38:15Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.10.1_android.apk",
-  "sha256": "d753258a404c208cc7bc4b67a4661a39a782233d5a29f1b5cc069555f10a5a09",
-  "size": 19337904
+  "version": "2.11.0",
+  "notes": "LOCK IN 2.11 \u2014 Gym Builder: the lifting program for Planet Fitness (or any gym). Day A: Smith machine squats, dumbbell bench, lat pulldown, leg curls, plank. Day B: leg press, shoulder press, cable rows, RDLs, triceps pushdowns, curls. Treadmill intervals Thursday. Weights tracked on every machine with go-heavier cues. Switch between gym and home versions anytime on Train \u2192 This week.",
+  "pub_date": "2026-10-25T18:56:42Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.11.0_android.apk",
+  "sha256": "244ede24092681672fc0b958ac3a8fd3dce4c26377e9c4a891876e0daa554e24",
+  "size": 19337908
 }
