@@ -1,11 +1,11 @@
 {
-  "version": "2.11.0",
-  "notes": "LOCK IN 2.11 \u2014 Gym Builder: the lifting program for Planet Fitness (or any gym). Day A: Smith machine squats, dumbbell bench, lat pulldown, leg curls, plank. Day B: leg press, shoulder press, cable rows, RDLs, triceps pushdowns, curls. Treadmill intervals Thursday. Weights tracked on every machine with go-heavier cues. Switch between gym and home versions anytime on Train \u2192 This week.",
-  "pub_date": "2026-10-25T18:56:36Z",
+  "version": "2.12.0",
+  "notes": "LOCK IN 2.12 \u2014 New Gym tab: check in/out with visit stats and weekly streak, today's lift with warm-up and ramp-up sets, 30-min express circuit, gym bag checklist + reminder, free-lift logger with rest timer, build-your-own split (PPL, upper/lower, full body, body-part templates), machine guide with your saved seat settings, 'machine taken? swap it' during workouts, and Progress: estimated 1-rep max charts, weekly sets per muscle, PR wall, and private monthly photos + measurements.",
+  "pub_date": "2026-10-25T20:51:35Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHBkaTJKMXpoSG9qSGxhUzU3b2d0YThHRlBJNjcybVJNSHFyclFEWGl5bE5LTmQxRS93bkI4N1RNalM1aXMvdHBBcVFZMmJtNGI0UEk1VTQvZGdqR3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU0MTk5CWZpbGU6TE9DSyBJTl8yLjExLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjIuMTEuMApzRFcvUWFNbWgvbGUyeUMvWlExRUtsTWg2UC9WRXIzdXVnZXJBS2poeG1BYnBkZ09aSFo2UDB2d29DNVVlOGZsTWFwUzEybHdGSS80bng2TXBpVXBEZz09Cg==",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.11.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHNqZmUvcHk2ZFpuLzU4ZGI1TWJnbU4rMHBzbFZWc2JtdjZzZkdLUU9BbGNlZDN5SzNHV3QxTkxvNXlwU3JXYnBadlJMQ2xEemJrVUVIa0R1ZU9RN3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU4MDU2CWZpbGU6TE9DSyBJTl8yLjEyLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjIuMTIuMApGU1ZOQlRrVVpzSGxHSElESVl2bTVtb1hGN3BpRVU0L1dZMllhdjRjeHVlNGxiUk9OQlNvS3JMcFVPRkVTQ3pjS3ZtcFN0aVByYVZFMlBvTHp6NmtBZz09Cg==",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.12.0_x64-setup.exe"
     }
   }
 }
