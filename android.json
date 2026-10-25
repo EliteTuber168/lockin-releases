@@ -1,8 +1,8 @@
 {
-  "version": "2.11.0",
-  "notes": "LOCK IN 2.11 \u2014 Gym Builder: the lifting program for Planet Fitness (or any gym). Day A: Smith machine squats, dumbbell bench, lat pulldown, leg curls, plank. Day B: leg press, shoulder press, cable rows, RDLs, triceps pushdowns, curls. Treadmill intervals Thursday. Weights tracked on every machine with go-heavier cues. Switch between gym and home versions anytime on Train \u2192 This week.",
-  "pub_date": "2026-10-25T18:56:42Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.11.0_android.apk",
-  "sha256": "244ede24092681672fc0b958ac3a8fd3dce4c26377e9c4a891876e0daa554e24",
-  "size": 19337908
+  "version": "2.12.0",
+  "notes": "LOCK IN 2.12 \u2014 New Gym tab: check in/out with visit stats and weekly streak, today's lift with warm-up and ramp-up sets, 30-min express circuit, gym bag checklist + reminder, free-lift logger with rest timer, build-your-own split (PPL, upper/lower, full body, body-part templates), machine guide with your saved seat settings, 'machine taken? swap it' during workouts, and Progress: estimated 1-rep max charts, weekly sets per muscle, PR wall, and private monthly photos + measurements.",
+  "pub_date": "2026-10-25T20:51:46Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.12.0_android.apk",
+  "sha256": "e8e68828aa0510123f2a719cf501e8fab7259c8c640ba3ae35418e2374aeb702",
+  "size": 19354288
 }
