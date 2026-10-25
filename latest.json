@@ -1,11 +1,11 @@
 {
-  "version": "2.10.1",
-  "notes": "LOCK IN 2.10.1 \u2014 Morning Lock is lighter: no workout. Just a one-minute wake-up checklist (drink water, get some light, stretch, optional weigh-in), then the quick check-in. Emergency exit now on every step.",
-  "pub_date": "2026-10-21T04:38:10Z",
+  "version": "2.11.0",
+  "notes": "LOCK IN 2.11 \u2014 Gym Builder: the lifting program for Planet Fitness (or any gym). Day A: Smith machine squats, dumbbell bench, lat pulldown, leg curls, plank. Day B: leg press, shoulder press, cable rows, RDLs, triceps pushdowns, curls. Treadmill intervals Thursday. Weights tracked on every machine with go-heavier cues. Switch between gym and home versions anytime on Train \u2192 This week.",
+  "pub_date": "2026-10-25T18:56:36Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRG1ueGxVck51RnlDdWh0R0JxR0xLS3VCYmN4RHJwd1loRndDNkYzbTNJc2dRdFgzZ0ZSREk0TnhTd1FXcEJINTQrSERlUE93QzZuVkdhb2FTbmJMcmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTU3MTAwCWZpbGU6TE9DSyBJTl8yLjEwLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjIuMTAuMQp3K3R2T09xMFQ3SytIRlUrWDVmRzVQcDlQRkpETEtacmxobEI0M1FCSmJzRE5mSEIwc3hQOE1wT1ZpbGdRY3kzL0Fzc1BpemNVTXRqVjR0YUhJQjZDUT09Cg==",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.10.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHBkaTJKMXpoSG9qSGxhUzU3b2d0YThHRlBJNjcybVJNSHFyclFEWGl5bE5LTmQxRS93bkI4N1RNalM1aXMvdHBBcVFZMmJtNGI0UEk1VTQvZGdqR3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU0MTk5CWZpbGU6TE9DSyBJTl8yLjExLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjIuMTEuMApzRFcvUWFNbWgvbGUyeUMvWlExRUtsTWg2UC9WRXIzdXVnZXJBS2poeG1BYnBkZ09aSFo2UDB2d29DNVVlOGZsTWFwUzEybHdGSS80bng2TXBpVXBEZz09Cg==",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.11.0_x64-setup.exe"
     }
   }
 }
