@@ -1,8 +1,8 @@
 {
-  "version": "2.13.0",
-  "notes": "New 3D exercise animations for every exercise: real gym machines and equipment, fixed hand/foot placement and movement paths, 2s down / 1s up rep tempo, muscle highlights, form cues on the body, pause / slow-mo / scrub, and a 'Wrong way' comparison. Gym upgrades: smart weight suggestions, warm-up sets in the player, saved machine settings, notes per exercise, supersets, a next-set preview while you rest, stuck-lift (deload) alerts, and a best-time-to-go crowd planner.",
-  "pub_date": "2026-10-26T01:51:12Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.13.0_android.apk",
-  "sha256": "947f564c180293c78719b202266d184729394a3912a92943b055d3e156c4bcea",
+  "version": "2.13.1",
+  "notes": "Animation accuracy pass: feet sit flat on the leg press plate and back-extension foot plate, machine pads rest on your shins/shoulders instead of passing through them, fixed benches (incline, seated press, chest-supported row, one-arm row), pec deck and ab crunch machines rebuilt, hands now actually reach bars, floors and walls, better knee-to-chest, hamstring (with towel), quad, calf and cat-cow stretches, and the side plank mat runs the right way.",
+  "pub_date": "2026-10-26T02:39:22Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.13.1_android.apk",
+  "sha256": "4f9c12dd339f2c2ef86d78b0077808099199b6e0d7df079855218b95a95f2515",
   "size": 19370672
 }
