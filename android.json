@@ -1,8 +1,8 @@
 {
-  "version": "2.12.0",
-  "notes": "LOCK IN 2.12 \u2014 New Gym tab: check in/out with visit stats and weekly streak, today's lift with warm-up and ramp-up sets, 30-min express circuit, gym bag checklist + reminder, free-lift logger with rest timer, build-your-own split (PPL, upper/lower, full body, body-part templates), machine guide with your saved seat settings, 'machine taken? swap it' during workouts, and Progress: estimated 1-rep max charts, weekly sets per muscle, PR wall, and private monthly photos + measurements.",
-  "pub_date": "2026-10-25T20:51:46Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.12.0_android.apk",
-  "sha256": "e8e68828aa0510123f2a719cf501e8fab7259c8c640ba3ae35418e2374aeb702",
-  "size": 19354288
+  "version": "2.13.0",
+  "notes": "New 3D exercise animations for every exercise: real gym machines and equipment, fixed hand/foot placement and movement paths, 2s down / 1s up rep tempo, muscle highlights, form cues on the body, pause / slow-mo / scrub, and a 'Wrong way' comparison. Gym upgrades: smart weight suggestions, warm-up sets in the player, saved machine settings, notes per exercise, supersets, a next-set preview while you rest, stuck-lift (deload) alerts, and a best-time-to-go crowd planner.",
+  "pub_date": "2026-10-26T01:51:12Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.13.0_android.apk",
+  "sha256": "947f564c180293c78719b202266d184729394a3912a92943b055d3e156c4bcea",
+  "size": 19370672
 }
