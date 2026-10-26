@@ -1,8 +1,8 @@
 {
-  "version": "2.13.1",
-  "notes": "Animation accuracy pass: feet sit flat on the leg press plate and back-extension foot plate, machine pads rest on your shins/shoulders instead of passing through them, fixed benches (incline, seated press, chest-supported row, one-arm row), pec deck and ab crunch machines rebuilt, hands now actually reach bars, floors and walls, better knee-to-chest, hamstring (with towel), quad, calf and cat-cow stretches, and the side plank mat runs the right way.",
-  "pub_date": "2026-10-26T02:39:22Z",
-  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.13.1_android.apk",
-  "sha256": "4f9c12dd339f2c2ef86d78b0077808099199b6e0d7df079855218b95a95f2515",
-  "size": 19370672
+  "version": "2.13.2",
+  "notes": "Fixed the 'Wrong way' view: the red figure now gets its own copy of the machine and stands beside you on screen instead of floating, labels stay inside the view, and form tips hide while comparing.",
+  "pub_date": "2026-10-26T03:00:30Z",
+  "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.13.2_android.apk",
+  "sha256": "5a2a6215907ce2b6f8a479cc14b558f983fe50ecb0db729a4056982a747d6ef9",
+  "size": 19370676
 }
