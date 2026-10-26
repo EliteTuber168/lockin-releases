@@ -1,11 +1,11 @@
 {
-  "version": "2.12.0",
-  "notes": "LOCK IN 2.12 \u2014 New Gym tab: check in/out with visit stats and weekly streak, today's lift with warm-up and ramp-up sets, 30-min express circuit, gym bag checklist + reminder, free-lift logger with rest timer, build-your-own split (PPL, upper/lower, full body, body-part templates), machine guide with your saved seat settings, 'machine taken? swap it' during workouts, and Progress: estimated 1-rep max charts, weekly sets per muscle, PR wall, and private monthly photos + measurements.",
-  "pub_date": "2026-10-25T20:51:35Z",
+  "version": "2.13.0",
+  "notes": "New 3D exercise animations for every exercise: real gym machines and equipment, fixed hand/foot placement and movement paths, 2s down / 1s up rep tempo, muscle highlights, form cues on the body, pause / slow-mo / scrub, and a 'Wrong way' comparison. Gym upgrades: smart weight suggestions, warm-up sets in the player, saved machine settings, notes per exercise, supersets, a next-set preview while you rest, stuck-lift (deload) alerts, and a best-time-to-go crowd planner.",
+  "pub_date": "2026-10-26T01:51:02Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHNqZmUvcHk2ZFpuLzU4ZGI1TWJnbU4rMHBzbFZWc2JtdjZzZkdLUU9BbGNlZDN5SzNHV3QxTkxvNXlwU3JXYnBadlJMQ2xEemJrVUVIa0R1ZU9RN3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU4MDU2CWZpbGU6TE9DSyBJTl8yLjEyLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjIuMTIuMApGU1ZOQlRrVVpzSGxHSElESVl2bTVtb1hGN3BpRVU0L1dZMllhdjRjeHVlNGxiUk9OQlNvS3JMcFVPRkVTQ3pjS3ZtcFN0aVByYVZFMlBvTHp6NmtBZz09Cg==",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.12.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRG53cHcxeDZQbkZlRzhTUDkrdnJhaWx0ME9icXNJeGVkT2R6Wk9XcG8zbDNheUU0R1ZSd2RMM01JWnc0M0c4b3JNSS9zNmREbDdXams2YWZZL2UzN2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTc4ODIwCWZpbGU6TE9DSyBJTl8yLjEzLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjIuMTMuMApFNmZ6cFdISWl1WGRmSkJycEpxRUdwRy8zSjhPM1ZIc3NzTlBZaW5mcnM4MDJaSnl4dVlBei8rVDZ2SkJjUGJLNTdGcFNtNEFUWk1TK29kdEsxREpEUT09Cg==",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.13.0_x64-setup.exe"
     }
   }
 }
