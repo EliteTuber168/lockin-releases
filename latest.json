@@ -1,11 +1,11 @@
 {
-  "version": "2.13.1",
-  "notes": "Animation accuracy pass: feet sit flat on the leg press plate and back-extension foot plate, machine pads rest on your shins/shoulders instead of passing through them, fixed benches (incline, seated press, chest-supported row, one-arm row), pec deck and ab crunch machines rebuilt, hands now actually reach bars, floors and walls, better knee-to-chest, hamstring (with towel), quad, calf and cat-cow stretches, and the side plank mat runs the right way.",
-  "pub_date": "2026-10-26T02:39:11Z",
+  "version": "2.13.2",
+  "notes": "Fixed the 'Wrong way' view: the red figure now gets its own copy of the machine and stands beside you on screen instead of floating, labels stay inside the view, and form tips hide while comparing.",
+  "pub_date": "2026-10-26T03:00:22Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRHZ5dFhqRlUvb1VDbGgzUUh2Q29rMFVLSm5uMlY4S3pCNXk0MEkyMDliR0k0TVZ3Z01jU2wxd3RFa08xZlVNOVpRNnN0em5zN0hLWnhUVXdkZUpMaGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTgyMDMwCWZpbGU6TE9DSyBJTl8yLjEzLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjIuMTMuMQpMZmgyaytZVHJ4eDlaQ29vbHVsZXNtakF1UzUrNnRETEJtTlpTNmRyY2FTcmZYOFZpTFhqRno1bGhWSDVZYkdjeHROazVUdk52d0xpNXdVSk9QL2ZCUT09Cg==",
-      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.13.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FwOFo3bDFJRG1UR1VkV3pjVlVzOTB6K2x3ZE92QzFaMjRpeHNGNFRzcmEvSnFwUWk3anJ0WWNSRmxCdTNpOXB0dnFKMUpLNzNzeVQwSG5YbHJLV1BDYUFyRzE4eEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTgzMjM0CWZpbGU6TE9DSyBJTl8yLjEzLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjIuMTMuMgppYk9oOGlEZFFUSnpYT1A3RWMrcklGNDJscnp3c0t0K1pmM2VwLzVlVTQyWm5RNUpFOFJKU3BES056VHBsN0dZa1RGdUM5Rm5FU1FjVXh2a003OWNDdz09Cg==",
+      "url": "https://raw.githubusercontent.com/EliteTuber168/lockin-releases/main/releases/LOCK-IN_2.13.2_x64-setup.exe"
     }
   }
 }
